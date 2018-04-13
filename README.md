@@ -1,0 +1,2 @@
+Oracle contract of wasm
+
